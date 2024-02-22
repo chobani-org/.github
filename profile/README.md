@@ -1,1 +1,2 @@
-![chobani-logo](https://github.com/chobani-org/.github/assets/160776974/f3557742-2f79-434f-9f15-b7253a8b6254)
+
+![chobani_logo](https://github.com/chobani-org/.github/assets/160776974/d851b43d-7ca4-4348-9af7-dac00cf4dc88)
